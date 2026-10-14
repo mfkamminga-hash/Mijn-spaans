@@ -1,0 +1,25 @@
+Onze Taalacademie — volwassenencursus voor Marieke en Mark
+
+96 bestaande hoofdstukken: A1, A2, B1 en B2, met 24 per niveau.
+Woorden met emoticons, woordentrainer, grammatica, dialogen, oefeningen en toets.
+De bestaande audio is synthetische Spaanse proefaudio; geen kinderstem.
+De natuurlijke klank en het Spaanse accent zijn niet door een luisteraar bevestigd.
+Vrij schrijven wordt met modeltekst en zelfcontrole geoefend, niet automatisch beoordeeld.
+
+1. Pak dit ZIP-bestand uit.
+2. Maak een NIEUWE GitHub-repository, bijvoorbeeld Onze-Taalacademie.
+3. Upload ALLE uitgepakte bestanden in de hoofdmap, niet het ZIP-bestand.
+   Er zijn geen submappen nodig. Laat index.html en alle audio-XX.js bestanden samen staan.
+4. Commit changes. Ga naar Settings > Pages > Deploy from a branch > main > /(root) > Save.
+5. Open de link die GitHub bij Pages toont.
+
+De bestanden met audio laden pas wanneer je luistert. Upload ze allemaal.
+Voor gebruik is een internetverbinding nodig; er is geen volledige offline-installatie.
+Marieke en Mark bewaren hun voortgang afzonderlijk in dezelfde browser.
+Een nieuw website-adres neemt oude voortgang niet vanzelf over: download vooraf
+via het lessenoverzicht 'Bewaar al mijn voortgang' voor ieder profiel en importeer
+op het nieuwe adres. Back-ups en voortgang worden niet naar GitHub gestuurd.
+
+Dit pakket bevat alleen de volwassenencursus. Gebruik een aparte repository;
+vervang geen bestanden in Ons-gezin of in Sofía-Lola.
+Voor gratis GitHub Pages gebruik je een openbare repository: lesinhoud is openbaar.
